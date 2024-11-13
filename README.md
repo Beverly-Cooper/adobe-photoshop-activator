@@ -31,17 +31,17 @@ The price of Adobe Photoshop varies based on the selected plan. A comprehensive 
 
 ### Often asked questions ( FAQ).
 
-*Is it feasible to obtain a permanent, free download of Adobe Photoshop?*
-The whole free version of Photoshop is just available via the official repository.
+**Is it feasible to obtain a permanent, free download of Adobe Photoshop?**
+*The whole free version of Photoshop is just available via the official repository.*
 
-*What are the differences between Adobe Illustrator and Photoshop?*
-Adobe Illustrator is a vector graphics editor utilized for the development of illustrations, logos, and designs. Photoshop functions on raster images, making it more suitable for photo editing.
+**What are the differences between Adobe Illustrator and Photoshop?**
+*Adobe Illustrator is a vector graphics editor utilized for the development of illustrations, logos, and designs. Photoshop functions on raster images, making it more suitable for photo editing.*
 
-*Is Adobe Photoshop appropriate for photo editing?*
-Indeed, Photoshop is optimal for editing, enhancing images, and generating effects. AI technologies such as Generative Fill enable the meticulous refinement and transformation of images.
+**Is Adobe Photoshop appropriate for photo editing?**
+*Indeed, Photoshop is optimal for editing, enhancing images, and generating effects. AI technologies such as Generative Fill enable the meticulous refinement and transformation of images.*
 
-*Is Adobe Photoshop compatible with Windows 11?*
-Adobe Photoshop is available for download on Windows 10 and Windows 11.
+**Is Adobe Photoshop compatible with Windows 11?**
+*Adobe Photoshop is available for download on Windows 10 and Windows 11.*
 
 ### Conclusion
 
